@@ -1,0 +1,51 @@
+.greeting-container {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 20px;
+  color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  animation: fadeIn 0.5s ease-in-out;
+  transition: background 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.greeting-container:hover {
+  background: linear-gradient(135deg, #f44336 0%, #ff9800 100%);
+}
+
+.greeting-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.greeting-username {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.greeting-logout-button {
+  background-color: #fff;
+  color: #333;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.greeting-logout-button:hover {
+  background-color: #f44336;
+  color: #fff;
+}

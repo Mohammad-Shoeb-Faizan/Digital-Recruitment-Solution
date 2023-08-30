@@ -1,0 +1,303 @@
+{ "jobsData":[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "location": "Bangalore",
+      "role": "Engineering"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "location": "Mumbai",
+      "role": "Data"
+    },
+    {
+      "id": 3,
+      "title": "Product Manager",
+      "location": "Delhi",
+      "role": "Product"
+    },
+    {
+      "id": 4,
+      "title": "Graphic Designer",
+      "location": "Chennai",
+      "role": "Design"
+    },
+    {
+      "id": 5,
+      "title": "Marketing Specialist",
+      "location": "Hyderabad",
+      "role": "Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Financial Analyst",
+      "location": "Kolkata",
+      "role": "Finance"
+    },
+    {
+      "id": 7,
+      "title": "Human Resources Manager",
+      "location": "Pune",
+      "role": "Human Resources"
+    },
+    {
+      "id": 8,
+      "title": "Business Development Executive",
+      "location": "Ahmedabad",
+      "role": "Business Development"
+    },
+    {
+      "id": 9,
+      "title": "Web Developer",
+      "location": "Jaipur",
+      "role": "Engineering"
+    },
+    {
+      "id": 10,
+      "title": "Data Scientist",
+      "location": "Bengaluru",
+      "role": "Data"
+    },
+    {
+      "id": 11,
+      "title": "Product Designer",
+      "location": "Gurgaon",
+      "role": "Design"
+    },
+    {
+      "id": 12,
+      "title": "Content Writer",
+      "location": "Chandigarh",
+      "role": "Content"
+    },
+    {
+      "id": 13,
+      "title": "Sales Manager",
+      "location": "Lucknow",
+      "role": "Sales"
+    },
+    {
+      "id": 14,
+      "title": "Software Developer",
+      "location": "Noida",
+      "role": "Engineering"
+    },
+    {
+      "id": 15,
+      "title": "Data Engineer",
+      "location": "Jaipur",
+      "role": "Data"
+    },
+    {
+      "id": 16,
+      "title": "Project Manager",
+      "location": "Ahmedabad",
+      "role": "Project Management"
+    },
+    {
+      "id": 17,
+      "title": "UX/UI Designer",
+      "location": "Pune",
+      "role": "Design"
+    },
+    {
+      "id": 18,
+      "title": "Marketing Manager",
+      "location": "Hyderabad",
+      "role": "Marketing"
+    },
+    {
+      "id": 19,
+      "title": "Financial Controller",
+      "location": "Mumbai",
+      "role": "Finance"
+    },
+    {
+      "id": 20,
+      "title": "HR Specialist",
+      "location": "Delhi",
+      "role": "Human Resources"
+    },
+    {
+      "id": 21,
+      "title": "Business Analyst",
+      "location": "Bangalore",
+      "role": "Business"
+    },
+    {
+      "id": 22,
+      "title": "Frontend Developer",
+      "location": "Chennai",
+      "role": "Engineering"
+    },
+    {
+      "id": 23,
+      "title": "Data Analyst",
+      "location": "Kolkata",
+      "role": "Data"
+    },
+    {
+      "id": 24,
+      "title": "Product Owner",
+      "location": "Mumbai",
+      "role": "Product"
+    },
+    {
+      "id": 25,
+      "title": "Graphic Designer",
+      "location": "Delhi",
+      "role": "Design"
+    },
+    {
+      "id": 26,
+      "title": "Social Media Manager",
+      "location": "Hyderabad",
+      "role": "Marketing"
+    },
+    {
+      "id": 27,
+      "title": "Financial Analyst",
+      "location": "Pune",
+      "role": "Finance"
+    },
+    {
+      "id": 28,
+      "title": "Talent Acquisition Specialist",
+      "location": "Gurgaon",
+      "role": "Human Resources"
+    },
+    {
+      "id": 29,
+      "title": "Business Development Manager",
+      "location": "Chennai",
+      "role": "Business Development"
+    },
+    {
+      "id": 30,
+      "title": "Full Stack Developer",
+      "location": "Bangalore",
+      "role": "Engineering"
+    },
+    {
+      "id": 31,
+      "title": "Data Scientist",
+      "location": "Mumbai",
+      "role": "Data"
+    },
+    {
+      "id": 32,
+      "title": "Product Manager",
+      "location": "Delhi",
+      "role": "Product"
+    },
+    {
+      "id": 33,
+      "title": "UX/UI Designer",
+      "location": "Chennai",
+      "role": "Design"
+    },
+    {
+      "id": 34,
+      "title": "Content Writer",
+      "location": "Hyderabad",
+      "role": "Content"
+    },
+    {
+      "id": 35,
+      "title": "Sales Executive",
+      "location": "Pune",
+      "role": "Sales"
+    },
+    {
+      "id": 36,
+      "title": "Backend Developer",
+      "location": "Ahmedabad",
+      "role": "Engineering"
+    },
+    {
+      "id": 37,
+      "title": "Data Engineer",
+      "location": "Jaipur",
+      "role": "Data"
+    },
+    {
+      "id": 38,
+      "title": "Project Manager",
+      "location": "Kolkata",
+      "role": "Project Management"
+    },
+    {
+      "id": 39,
+      "title": "UI Designer",
+      "location": "Chandigarh",
+      "role": "Design"
+    },
+    {
+      "id": 40,
+      "title": "Marketing Coordinator",
+      "location": "Lucknow",
+      "role": "Marketing"
+    },
+    {
+      "id": 41,
+      "title": "Financial Advisor",
+      "location": "Noida",
+      "role": "Finance"
+    },
+    {
+      "id": 42,
+      "title": "HR Generalist",
+      "location": "Delhi",
+      "role": "Human Resources"
+    },
+    {
+      "id": 43,
+      "title": "Business Analyst",
+      "location": "Bangalore",
+      "role": "Business"
+    },
+    {
+      "id": 44,
+      "title": "Frontend Developer",
+      "location": "Chennai",
+      "role": "Engineering"
+    },
+    {
+      "id": 45,
+      "title": "Data Analyst",
+      "location": "Kolkata",
+      "role": "Data"
+    },
+    {
+      "id": 46,
+      "title": "Product Owner",
+      "location": "Mumbai",
+      "role": "Product"
+    },
+    {
+      "id": 47,
+      "title": "Graphic Designer",
+      "location": "Delhi",
+      "role": "Design"
+    },
+    {
+      "id": 48,
+      "title": "Social Media Manager",
+      "location": "Hyderabad",
+      "role": "Marketing"
+    },
+    {
+      "id": 49,
+      "title": "Financial Analyst",
+      "location": "Pune",
+      "role": "Finance"
+    },
+    {
+      "id": 50,
+      "title": "Talent Acquisition Specialist",
+      "location": "Gurgaon",
+      "role": "Human Resources"
+    }
+  ]
+}

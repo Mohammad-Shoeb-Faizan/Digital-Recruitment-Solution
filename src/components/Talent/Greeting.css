@@ -1,0 +1,102 @@
+.greeting-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.greeting-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin-right: 20px;
+}
+
+.signout-button {
+  background-color: #ff5851;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.signout-button:hover {
+  background-color: #e63e36;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #333;
+}
+
+.candidates-container {
+  margin-top: 20px;
+  align-text: center;
+}
+
+.candidates-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.candidate-item {
+  list-style: none;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 16px;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.candidate-item:hover {
+  transform: translateY(-2px);
+}
+
+.candidate-details {
+  margin-right: 16px;
+}
+
+.candidate-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.candidate-location {
+  font-size: 16px;
+  color: #666;
+}
+
+.portal-message {
+  font-size: 16px;
+  color: #333;
+  margin-top: 8px;
+}
+
+p {
+  margin: 0;
+}

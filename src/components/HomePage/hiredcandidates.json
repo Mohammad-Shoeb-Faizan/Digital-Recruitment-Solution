@@ -1,0 +1,145 @@
+
+{
+  "hiredCandidates": [
+  {
+  "id": 1,
+  "name": "John",
+  "position": "Software Engineer",
+  "company": "ABC Corporation",
+  "image": "https://randomuser.me/api/portraits/men/21.jpg"
+  },
+  {
+  "id": 2,
+  "name": "Emily",
+  "position": "Marketing Manager",
+  "company": "XYZ Inc.",
+  "image": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+  "id": 3,
+  "name": "Michael",
+  "position": "Data Analyst",
+  "company": "123 Industries",
+  "image": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+  "id": 4,
+  "name": "Sophia",
+  "position": "Graphic Designer",
+  "company": "PQR Solutions",
+  "image": "https://randomuser.me/api/portraits/women/24.jpg"
+  },
+  {
+  "id": 5,
+  "name": "James",
+  "position": "Sales Representative",
+  "company": "LMN Corporation",
+  "image": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
+  "id": 6,
+  "name": "Olivia",
+  "position": "HR Manager",
+  "company": "UVW Inc.",
+  "image": "https://randomuser.me/api/portraits/women/26.jpg"
+  },
+  {
+  "id": 7,
+  "name": "Daniel",
+  "position": "Project Manager",
+  "company": "OPQ Solutions",
+  "image": "https://randomuser.me/api/portraits/men/27.jpg"
+  },
+  {
+  "id": 8,
+  "name": "Ava",
+  "position": "Operations Analyst",
+  "company": "RST Corporation",
+  "image": "https://randomuser.me/api/portraits/women/28.jpg"
+  },
+  {
+  "id": 9,
+  "name": "William",
+  "position": "Financial Analyst",
+  "company": "GHI Inc.",
+  "image": "https://randomuser.me/api/portraits/men/29.jpg"
+  },
+  {
+  "id": 10,
+  "name": "Isabella",
+  "position": "UX Designer",
+  "company": "JKL Solutions",
+  "image": "https://randomuser.me/api/portraits/women/30.jpg"
+  },
+  {
+  "id": 11,
+  "name": "Benjamin",
+  "position": "Product Manager",
+  "company": "MNO Corporation",
+  "image": "https://randomuser.me/api/portraits/men/31.jpg"
+  },
+  {
+  "id": 12,
+  "name": "Emma",
+  "position": "Customer Service Representative",
+  "company": "STU Inc.",
+  "image": "https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+  "id": 13,
+  "name": "Lucas",
+  "position": "Software Developer",
+  "company": "VWX Solutions",
+  "image": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  {
+  "id": 14,
+  "name": "Mia",
+  "position": "Content Writer",
+  "company": "YZA Corporation",
+  "image": "https://randomuser.me/api/portraits/women/34.jpg"
+  },
+  {
+  "id": 15,
+  "name": "Alexander",
+  "position": "Business Analyst",
+  "company": "BCD Inc.",
+  "image": "https://randomuser.me/api/portraits/men/35.jpg"
+  },
+  {
+  "id": 16,
+  "name": "Charlotte",
+  "position": "Marketing Coordinator",
+  "company": "EFG Solutions",
+  "image": "https://randomuser.me/api/portraits/women/36.jpg"
+  },
+  {
+  "id": 17,
+  "name": "Daniel",
+  "position": "IT Support Specialist",
+  "company": "HIJ Corporation",
+  "image": "https://randomuser.me/api/portraits/men/37.jpg"
+  },
+  {
+  "id": 18,
+  "name": "Harper",
+  "position": "Administrative Assistant",
+  "company": "KLM Solutions",
+  "image": "https://randomuser.me/api/portraits/women/38.jpg"
+  },
+  {
+  "id": 19,
+  "name": "Liam",
+  "position": "Operations Manager",
+  "company": "NOP Inc.",
+  "image": "https://randomuser.me/api/portraits/men/39.jpg"
+  },
+  {
+  "id": 20,
+  "name": "Mia",
+  "position": "Human Resources Coordinator",
+  "company": "QRS Corporation",
+  "image": "https://randomuser.me/api/portraits/women/40.jpg"
+  }
+  ]
+  }

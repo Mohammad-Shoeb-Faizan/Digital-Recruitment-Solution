@@ -1,0 +1,119 @@
+.navbar-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #eaf6f6;
+  z-index: 9999;
+}
+
+.navbar-container::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("../../assets/nav-bg.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: rotateBackground 20s linear infinite;
+}
+
+@keyframes rotateBackground {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.navbar-logo {
+  height: 50px;
+}
+
+.navbar-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-item {
+  margin-right: 20px;
+  font-size: 1.2rem;
+  align-items: center;
+  cursor: pointer;
+  color: black;
+}
+.navbar-item:hover {
+  background-color: #dbd8e3;
+}
+
+.navbar-item a {
+  text-decoration: none;
+}
+
+.navbar-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.navbar-toggle-icon {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #333;
+  transition: transform 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .navbar-container {
+    position: relative;
+  }
+
+  .navbar-logo {
+    height: 30px;
+  }
+
+  .navbar-menu {
+    display: none;
+  }
+
+  .navbar-menu.open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #f6d794;
+
+    padding: 10px;
+  }
+
+  .navbar-menu.open .navbar-item {
+    margin-bottom: 10px;
+  }
+
+  .navbar-menu.open .navbar-item:hover {
+    background-color: #e27171;
+  }
+
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-toggle.active .navbar-toggle-icon {
+    transform: rotate(45deg);
+  }
+}
